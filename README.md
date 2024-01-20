@@ -87,7 +87,7 @@ You can clone your previous project (`lab-react-jsx-boilerplate`) again, and the
           }
         ]
         return data;
-      
+      }
     ```
 
 2. Now, create a folder `components` and inside this folder create a file `DataComponent.jsx`. Add your data in this file.
